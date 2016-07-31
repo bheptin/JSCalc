@@ -1,0 +1,27 @@
+#calculator {
+  border: 10px 10px;
+  border-color: black;
+  border-style: groove;
+  background-color:  #80b3ff;
+  width: 160px;
+  height: 200px;
+  margin: 100px 500px 0px 500px;
+}
+#mainline {
+  width: 120px;
+  height: 30px;
+  margin-bottom: 0px;
+  font-size: 30px;
+}
+div {
+
+  height: 20px;
+  width: 132px;
+  margin: 0;
+  margin: 20px 2px;
+  padding-left: 10px;
+
+}
+#buttons {
+  padding-left: 0px;
+}
